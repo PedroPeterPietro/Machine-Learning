@@ -1,0 +1,50 @@
+1) Introdução ao Machine Learning.
+
+ - Treinamento de sistemas de I.A, sendo tomadas decisões baseadas em regras bem definidas e não sendo deixado levar pela emoção. Também é possivel ajudar os humanos a tomar decisões.
+ 
+ - A I.A hoje em dia é vista pode ser de forma Geral e Restrita. 
+ Exemplos de Restrita: Sistema de reconhecimento facial, recomendação de certo produto.
+ Exemplo de Geral: c3po, R2-D2, ficção científica (No filme EX Machina um robô faz parte no teste de turing, onde ele engana a pessoa). O Teste de Turing determina a capacidade de uma máquina exibir comportamento inteligente equivalente a um humano.
+ 
+ - Relação entre ML(Machine Learning) E I.A;
+ Por meio do ML obtemos(ou não) uma I.A restrita.
+ Exemplo de obtenção de I.A: Tirar foto do rosto para o sistema de reconhecimento facial reconhecer o seu rosto.
+ 
+  - O que é ML?
+  O objetivo do aprendizado de ML é programar computadores para aprender um determinado comportamento ou pad~rao automaticamente a partir de exemplo ou observações (DATASETS). Um sistema de reconhecimento de face é baseado em estudo de dados, portante um sistema de reconhecimento facial de gatos e cachorroes possue uma quantidade de imagens de gatos e cachorros a fim de treinar a máquina para indentificar posteriormente.
+  
+  - Aprendizado por Reforço
+ Caso aprende de forma efetiva, recebe um valor positivo, caso aprenda de forma negativa, recebe um valor negativo. Para I.A o método de redes neurais é o mais utilizado, sendo uma forma de aprendizado restrito.
+ 
+ - Visão 2D ou 3D. Temos dois olhos para ter noção de pronfudidade, portanto precisamos enxergar um mundo em 3d. uma visão computacional em 2D possui alguns problemas. Um sistema de rede YOLO, por exemplo, identifica adesivos/posters como pessoa, objetos e etc. Os reconhecimentos faciais em celulares hoje em dia utiliza da visão 3D para identificar a face do usuário, visto que antigamente era possível desbloquear apenas com foto, pois era utilizado sistemas de visão em 2D.
+ 
+ - A parte ética para Sistemas Inteligentes.
+ Tomadas de decisões sem sentimentos;
+ Proteger o dono ou a criança?
+ Proteger a criança ou uma velhinha?
+ 
+ - Aplicações de ML e I.A
+ Suporte para medicina (Sistemas que conseguem avaliar câncer de mama, calcificação, pedaço de tumor e etc).
+ Comunicação entre máquinas na indústria (Verificar manuntenção, qualidade do produto).
+ Reconhecer o tipo de carne e seu valores.
+ BIG Data (Análise de grande volumes de dados)
+ Sistema de Recomendação ( Coleção > Armazenamento > Análise > Recomendação)
+ Transhumanismo (Melhoramento corporal e cerebral)
+ Máquinas que pensam como humanos.
+ - Avatar project milestones 2045 -
+------------------------------------------------------------------------------------
+2) Métodos de Machine Learning bioinspirados
+
+------------------------------------------------------------------------------------
+Redes Neurais Artificais
+
+------------------------------------------------------------------------------------
+Algoritmos Genéticos
+
+------------------------------------------------------------------------------------
+Algoritmos de SVM
+
+------------------------------------------------------------------------------------
+Criação e utilização de Datasets
+
+
